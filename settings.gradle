@@ -1,0 +1,2 @@
+rootProject.name='Android_Firebase_CloudFirestore_Register_Login_RecyclerView'
+include ':app'

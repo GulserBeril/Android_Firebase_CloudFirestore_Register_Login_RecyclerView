@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737127364506",
+    "firebase_url": "https://registerloginrecyclerview.firebaseio.com",
+    "project_id": "registerloginrecyclerview",
+    "storage_bucket": "registerloginrecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737127364506:android:2fe1ea8fe1b3d3074cec23",
+        "android_client_info": {
+          "package_name": "com.gulser.android_firebase_cloudfirestore_register_login_recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737127364506-58tsg0b24v3n2769fur9q2imr9hvrer0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulser.android_firebase_cloudfirestore_register_login_recyclerview",
+            "certificate_hash": "3ad4f52bd1217e03a642924afe9ccf746d3eb591"
+          }
+        },
+        {
+          "client_id": "737127364506-o2ec6tnvjm2knfkh6qe7jhifa8hmbei5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkUG7ltIUtdVlnIPubaT5Z8YY0Ql3_AfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737127364506-o2ec6tnvjm2knfkh6qe7jhifa8hmbei5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

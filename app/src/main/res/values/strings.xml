@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_Firebase_CloudFirestore_Register_Login_RecyclerView</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="student_number">Student Number</string>
+    <string name="password_again">Password(Again)</string>
+    <string name="student_number_">Student Number:</string>
+    <string name="name_surname">Name Surname:</string>
+    <string name="student_info">Student Information</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android_Firebase_CloudFirestore_Register_Login_RecyclerView</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="name">Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="student_number">Öğrenci Numarası</string>
+    <string name="password_again">Şifre(Tekrar)</string>
+    <string name="student_number_">Öğrenci Numarası:</string>
+    <string name="name_surname">Ad Soyad:</string>
+    <string name="student_info">Öğrenci Bilgileri</string>
+</resources>
